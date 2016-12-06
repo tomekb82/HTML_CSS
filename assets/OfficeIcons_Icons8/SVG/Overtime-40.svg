@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?><!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve" width="40" height="40">
+<g>
+	<rect x="4.5" y="6.5" style="fill:#FFFFFF;" width="34" height="32"/>
+	<g>
+		<path style="fill:#788B9C;" d="M38,7v31H5V7H38 M39,6H4v33h35V6L39,6z"/>
+	</g>
+</g>
+<g>
+	<rect x="4.5" y="6.5" style="fill:#F78F8F;" width="34" height="6"/>
+	<g>
+		<path style="fill:#C74343;" d="M38,7v5H5V7H38 M39,6H4v7h35V6L39,6z"/>
+	</g>
+</g>
+<rect x="30" y="17" style="fill:#C5D4DE;" width="3" height="3"/>
+<rect x="25" y="17" style="fill:#C5D4DE;" width="3" height="3"/>
+<rect x="20" y="17" style="fill:#C5D4DE;" width="3" height="3"/>
+<rect x="15" y="17" style="fill:#C5D4DE;" width="3" height="3"/>
+<rect x="30" y="22" style="fill:#C5D4DE;" width="3" height="3"/>
+<rect x="25" y="22" style="fill:#C5D4DE;" width="3" height="3"/>
+<rect x="20" y="22" style="fill:#C5D4DE;" width="3" height="3"/>
+<rect x="15" y="22" style="fill:#C5D4DE;" width="3" height="3"/>
+<rect x="10" y="22" style="fill:#C5D4DE;" width="3" height="3"/>
+<rect x="25" y="27" style="fill:#C5D4DE;" width="3" height="3"/>
+<rect x="20" y="27" style="fill:#C5D4DE;" width="3" height="3"/>
+<rect x="15" y="27" style="fill:#C5D4DE;" width="3" height="3"/>
+<rect x="10" y="27" style="fill:#C5D4DE;" width="3" height="3"/>
+<rect x="5" y="35" style="fill:#E1EBF2;" width="33" height="3"/>
+<g>
+	<path style="fill:#8BB7F0;" d="M11.5,21.5c-5.514,0-10-4.486-10-10s4.486-10,10-10s10,4.486,10,10S17.014,21.5,11.5,21.5z"/>
+	<g>
+		<path style="fill:#4E7AB5;" d="M11.5,2c5.238,0,9.5,4.262,9.5,9.5S16.738,21,11.5,21S2,16.738,2,11.5S6.262,2,11.5,2 M11.5,1    C5.701,1,1,5.701,1,11.5S5.701,22,11.5,22S22,17.299,22,11.5S17.299,1,11.5,1L11.5,1z"/>
+	</g>
+</g>
+<circle style="fill:#FFFFFF;" cx="11.5" cy="11.5" r="7.5"/>
+<circle style="fill:#36404D;" cx="11.5" cy="11.5" r="1.25"/>
+<polyline style="fill:none;stroke:#36404D;stroke-miterlimit:10;" points="14.5,15.25 11.5,11.5 13.75,5.5 "/>
+</svg>

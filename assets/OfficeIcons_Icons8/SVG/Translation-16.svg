@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?><!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve" width="16" height="16">
+<g>
+	<rect x="0.5" y="0.5" style="fill:#FFFFFF;" width="10" height="10"/>
+	<g>
+		<path style="fill:#788B9C;" d="M10,1v9H1V1H10 M11,0H0v11h11V0L11,0z"/>
+	</g>
+</g>
+<g>
+	<polygon style="fill:#8BB7F0;" points="5.5,15.5 5.5,10.207 10.207,5.5 15.5,5.5 15.5,15.5  "/>
+	<g>
+		<path style="fill:#4E7AB5;" d="M15,6v9H6v-4.586L10.414,6H15 M16,5h-6l-5,5v6h11V5L16,5z"/>
+	</g>
+</g>
+<g>
+	<rect x="9.25" y="11" style="fill:#FFFFFF;" width="2.5" height="1"/>
+</g>
+<g>
+	<polygon style="fill:#FFFFFF;" points="11.198,8 9.845,8 8,13 9.188,13 10.477,8.954 10.523,8.954 11.812,13 13,13  "/>
+</g>
+<line style="fill:none;stroke:#788B9C;stroke-miterlimit:10;" x1="2" y1="3.5" x2="9" y2="3.5"/>
+<line style="fill:none;stroke:#788B9C;stroke-miterlimit:10;" x1="5.5" y1="2" x2="5.5" y2="3.714"/>
+<path style="fill:none;stroke:#788B9C;stroke-miterlimit:10;" d="M7.5,3.5c0,0-1.188,4-5.5,4"/>
+<path style="fill:none;stroke:#788B9C;stroke-miterlimit:10;" d="M3.5,4.5c0,0,1.875,2,4.5,2"/>
+</svg>

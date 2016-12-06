@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?><!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve" width="40" height="40">
+<g>
+	<g>
+		<path style="fill:#8BB7F0;" d="M20,38.5C9.799,38.5,1.5,30.201,1.5,20S9.799,1.5,20,1.5S38.5,9.799,38.5,20S30.201,38.5,20,38.5z     M20,4.5C11.453,4.5,4.5,11.453,4.5,20S11.453,35.5,20,35.5S35.5,28.547,35.5,20S28.547,4.5,20,4.5z"/>
+	</g>
+	<g>
+		<path style="fill:#4E7AB5;" d="M20,2c9.925,0,18,8.075,18,18s-8.075,18-18,18S2,29.925,2,20S10.075,2,20,2 M20,36    c8.822,0,16-7.178,16-16S28.822,4,20,4S4,11.178,4,20S11.178,36,20,36 M20,1C9.507,1,1,9.507,1,20s8.507,19,19,19s19-8.507,19-19    S30.493,1,20,1L20,1z M20,35c-8.284,0-15-6.716-15-15c0-8.284,6.716-15,15-15s15,6.716,15,15C35,28.284,28.284,35,20,35L20,35z"/>
+	</g>
+</g>
+<path style="fill:#FFFFFF;" d="M38.313,15c-0.487-1.786-1.225-3.464-2.179-5h-4.976C28.412,6.938,24.437,5,20,5  C11.716,5,5,11.716,5,20c0,8.284,6.716,15,15,15s15-6.716,15-15c0-1.756-0.317-3.434-0.872-5H38.313z"/>
+<polyline style="fill:none;stroke:#66798F;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;" points="13.005,9.665 20,20   14.154,25.846 "/>
+<g>
+	<circle style="fill:#66798F;" cx="20" cy="20" r="1.5"/>
+</g>
+<g>
+	<circle style="fill:#C5D4DE;" cx="20" cy="7" r="1"/>
+</g>
+<g>
+	<circle style="fill:#C5D4DE;" cx="20" cy="33" r="1"/>
+</g>
+<g>
+	<circle style="fill:#C5D4DE;" cx="7" cy="20" r="1"/>
+</g>
+<g>
+	<circle style="fill:#C5D4DE;" cx="33" cy="20" r="1"/>
+</g>
+<g>
+	<polygon style="fill:#8BB7F0;" points="27.993,12.357 35.786,4.564 35.786,12.357  "/>
+	<g>
+		<path style="fill:#4E7AB5;" d="M35.286,5.771v6.086H29.2L35.286,5.771 M36.286,3.357l-9.5,9.5h9.5V3.357L36.286,3.357z"/>
+	</g>
+</g>
+<path style="fill:none;stroke:#8BB7F0;stroke-width:2;stroke-miterlimit:10;" d="M30.496,6.626c0.963,0.757,1.843,1.616,2.622,2.561  "/>
+</svg>

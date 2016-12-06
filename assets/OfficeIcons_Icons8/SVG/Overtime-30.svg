@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?><!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve" width="30" height="30">
+<g>
+	<rect x="3.5" y="5.5" style="fill:#FFFFFF;" width="25" height="23"/>
+	<g>
+		<path style="fill:#788B9C;" d="M28,6v22H4V6H28 M29,5H3v24h26V5L29,5z"/>
+	</g>
+</g>
+<g>
+	<rect x="3.5" y="5.5" style="fill:#F78F8F;" width="25" height="4"/>
+	<g>
+		<path style="fill:#C74343;" d="M28,6v3H4V6H28 M29,5H3v5h26V5L29,5z"/>
+	</g>
+</g>
+<rect x="11" y="13" style="fill:#C5D4DE;" width="2" height="2"/>
+<rect x="15" y="13" style="fill:#C5D4DE;" width="2" height="2"/>
+<rect x="19" y="13" style="fill:#C5D4DE;" width="2" height="2"/>
+<rect x="23" y="13" style="fill:#C5D4DE;" width="2" height="2"/>
+<rect x="7" y="17" style="fill:#C5D4DE;" width="2" height="2"/>
+<rect x="11" y="17" style="fill:#C5D4DE;" width="2" height="2"/>
+<rect x="15" y="17" style="fill:#C5D4DE;" width="2" height="2"/>
+<rect x="19" y="17" style="fill:#C5D4DE;" width="2" height="2"/>
+<rect x="23" y="17" style="fill:#C5D4DE;" width="2" height="2"/>
+<rect x="7" y="21" style="fill:#C5D4DE;" width="2" height="2"/>
+<rect x="11" y="21" style="fill:#C5D4DE;" width="2" height="2"/>
+<rect x="15" y="21" style="fill:#C5D4DE;" width="2" height="2"/>
+<rect x="19" y="21" style="fill:#C5D4DE;" width="2" height="2"/>
+<rect x="4" y="26" style="fill:#E1EBF2;" width="24" height="2"/>
+<g>
+	<circle style="fill:#8BB7F0;" cx="9" cy="9" r="7.5"/>
+	<g>
+		<path style="fill:#4E7AB5;" d="M9,2c3.86,0,7,3.14,7,7s-3.14,7-7,7s-7-3.14-7-7S5.14,2,9,2 M9,1C4.582,1,1,4.582,1,9s3.582,8,8,8    s8-3.582,8-8S13.418,1,9,1L9,1z"/>
+	</g>
+</g>
+<circle style="fill:#FFFFFF;" cx="9" cy="9" r="6"/>
+<circle style="fill:#36404D;" cx="9" cy="9" r="1"/>
+<polyline style="fill:none;stroke:#36404D;stroke-miterlimit:10;" points="11.286,11.857 9,9 10.714,4.429 "/>
+</svg>

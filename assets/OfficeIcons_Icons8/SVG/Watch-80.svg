@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?><!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 80 80" style="enable-background:new 0 0 80 80;" xml:space="preserve" width="80" height="80">
+<g>
+	<path style="fill:#FFEEA3;" d="M74,46.5c-0.827,0-1.5-0.673-1.5-1.5V35c0-0.827,0.673-1.5,1.5-1.5h3c0.827,0,1.5,0.673,1.5,1.5v10   c0,0.827-0.673,1.5-1.5,1.5H74z"/>
+	<path style="fill:#BA9B48;" d="M77,34c0.551,0,1,0.449,1,1v10c0,0.551-0.449,1-1,1h-3c-0.551,0-1-0.449-1-1V35c0-0.551,0.449-1,1-1   H77 M77,33h-3c-1.105,0-2,0.895-2,2v10c0,1.105,0.895,2,2,2h3c1.105,0,2-0.895,2-2V35C79,33.895,78.105,33,77,33L77,33z"/>
+</g>
+<g>
+	<rect x="20.5" y="2.5" style="fill:#8BB7F0;" width="39" height="75"/>
+	<g>
+		<path style="fill:#4E7AB5;" d="M59,3v74H21V3H59 M60,2H20v76h40V2L60,2z"/>
+	</g>
+</g>
+<g>
+	<rect x="21" y="2" style="fill:#8BB7F0;" width="38" height="76"/>
+</g>
+<g>
+	<path style="fill:#FFEEA3;" d="M40,71.5C22.631,71.5,8.5,57.369,8.5,40S22.631,8.5,40,8.5S71.5,22.631,71.5,40S57.369,71.5,40,71.5   z"/>
+	<g>
+		<path style="fill:#BA9B48;" d="M40,9c17.093,0,31,13.907,31,31S57.093,71,40,71S9,57.093,9,40S22.907,9,40,9 M40,8    C22.327,8,8,22.327,8,40s14.327,32,32,32s32-14.327,32-32S57.673,8,40,8L40,8z"/>
+	</g>
+</g>
+<g>
+	<path style="fill:#FFFFFF;" d="M40,67.5c-15.164,0-27.5-12.336-27.5-27.5S24.836,12.5,40,12.5S67.5,24.836,67.5,40   S55.164,67.5,40,67.5z"/>
+	<g>
+		<path style="fill:#BA9B48;" d="M40,13c14.888,0,27,12.112,27,27S54.888,67,40,67S13,54.888,13,40S25.112,13,40,13 M40,12    c-15.464,0-28,12.536-28,28s12.536,28,28,28s28-12.536,28-28S55.464,12,40,12L40,12z"/>
+	</g>
+</g>
+<rect x="71" y="36" style="fill:#BA9B48;" width="2" height="8"/>
+<polyline style="fill:none;stroke:#66798F;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;" points="50.823,24.008   40,40 49.046,49.046 "/>
+<g>
+	<circle style="fill:#66798F;" cx="40" cy="40" r="3"/>
+</g>
+</svg>

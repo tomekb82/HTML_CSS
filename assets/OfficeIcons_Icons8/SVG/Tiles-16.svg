@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?><!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve" width="16" height="16">
+<g>
+	<rect x="1.5" y="1.5" style="fill:#FFC49C;" width="6" height="6"/>
+	<g>
+		<path style="fill:#A16A4A;" d="M7,2v5H2V2H7 M8,1H1v7h7V1L8,1z"/>
+	</g>
+</g>
+<g>
+	<rect x="1.5" y="9.5" style="fill:#BAE0BD;" width="6" height="6"/>
+	<g>
+		<path style="fill:#5E9C76;" d="M7,10v5H2v-5H7 M8,9H1v7h7V9L8,9z"/>
+	</g>
+</g>
+<rect x="10" y="3" style="fill:#788B9C;" width="5" height="1"/>
+<rect x="10" y="5" style="fill:#788B9C;" width="3" height="1"/>
+<rect x="10" y="11" style="fill:#788B9C;" width="5" height="1"/>
+<rect x="10" y="13" style="fill:#788B9C;" width="3" height="1"/>
+<polygon style="fill:#A16A4A;" points="5.535,4.462 4.5,5.423 5.923,7 7,7 7,5.826 "/>
+<circle style="fill:#FFFFFF;" cx="5.5" cy="3.5" r="0.5"/>
+<polygon style="fill:#E09367;" points="6.232,7 2,7 2,5.75 3.667,4.083 "/>
+<path style="fill:#FFFFFF;" d="M4.5,12.5l-0.583-0.971C3.646,11.076,3.972,10.5,4.5,10.5h0c0.528,0,0.854,0.576,0.583,1.029  L4.5,12.5z"/>
+<path style="fill:#FFFFFF;" d="M4.5,12.5l0.583,0.971C5.354,13.924,5.028,14.5,4.5,14.5h0c-0.528,0-0.854-0.576-0.583-1.029  L4.5,12.5z"/>
+<path style="fill:#FFFFFF;" d="M4.5,12.5l-1.132,0.019c-0.528,0.009-0.864-0.562-0.6-1.019l0,0c0.264-0.457,0.926-0.452,1.182,0.01  L4.5,12.5z"/>
+<path style="fill:#FFFFFF;" d="M4.5,12.5l1.132-0.019c0.528-0.009,0.864,0.562,0.6,1.019l0,0c-0.264,0.457-0.926,0.452-1.182-0.01  L4.5,12.5z"/>
+<path style="fill:#FFFFFF;" d="M4.5,12.5l-0.55,0.99c-0.256,0.462-0.918,0.467-1.182,0.01l0,0c-0.264-0.457,0.072-1.028,0.6-1.019  L4.5,12.5z"/>
+<path style="fill:#FFFFFF;" d="M4.5,12.5l0.55-0.99c0.256-0.462,0.918-0.467,1.182-0.01l0,0c0.264,0.457-0.072,1.028-0.6,1.019  L4.5,12.5z"/>
+<circle style="fill:#FFEEA3;" cx="4.5" cy="12.5" r="1"/>
+</svg>
