@@ -1,6 +1,7 @@
 @import url(reset.css);
 @import url(ramka.css);
     
+/* kolory */
 .green{
     color: #95BF06;
 }   
@@ -29,6 +30,7 @@ body{
     background-size: contain;
 }
 
+/* header */
 header.nav {
     color: #fff;
     background: #6D8C06; 
@@ -45,16 +47,16 @@ header.small_nav nav {
     display: none;
 }
 
+/* nawigacja */
 nav {
     float:right;
 }
 nav li{
-    font-size: 2.4rem;
+    font-size: 2.0rem;
     font-weight: bold;
     margin: 1rem;
     display: inline-block;
 }
-
 nav li a {
     text-decoration: none;
     color: #fff;
@@ -63,6 +65,7 @@ nav li a:hover {
     color: #333103;
 }
 
+/* przyciski */
 button{
     background: #F27707;
     border: none;
@@ -77,6 +80,7 @@ button:hover{
     background: #F25E05;
 }
 
+/* footer */
 footer{
     position: fixed;
     bottom: 0;
@@ -85,30 +89,33 @@ footer{
     background: #fff;
 }
 
+/* sekcja */
 section {
-    padding-top: 7rem;
     width:75%;
-    float: right;
-    min-width: 600px; 
-    max-width: 1280px;
+    margin-top: 10rem;
+    position:absolute;
+    right: 0%;
+    min-width: 850px; 
+    max-width: 1080px;
+    z-index: 0;
 }
 
+/* nagłowki */
 h1 {
     margin-top: 3rem;
     margin-left: -6rem;
-    font-size: 3.2rem;
+    font-size: 2.4rem;
     background: #6D8C06;
     color:#fff;
     border-top-left-radius: 1rem;
     padding: 1rem;
 }
-
 h2 {
-    font-size: 2.8rem;
+    font-size: 2.2rem;
 }
 
 h3 {
-    font-size: 2.4rem;
+    font-size: 2rem;
     padding: 1rem;
     background: #95BF06;
     color: #fff;
@@ -116,20 +123,16 @@ h3 {
     clear: both;
 }
 
-p {font-size: 2rem; line-height: 1.55; margin: 1rem; padding: 1rem;}
-
-ul {font-size: 1.8rem; line-height: 1.75;}
-
+/* inne elementy */
+p {font-size: 1.6rem; line-height: 1.55; margin: 1rem; padding: 1rem;}
+ul {font-size: 1.6rem; line-height: 1.55;}
 strong {font-weight: bold;}
+em{background-color: rgba(255,255,255,.8);}
 
-em{
-    background-color: rgba(255,255,255,.8);
-}
-
+/* formularze */
 form{
     width: 50rem;
 }
-
 input, textarea {
     width:50rem;
     background: none;
@@ -140,27 +143,31 @@ input, textarea {
     font-size: 1.7rem;
 }
 
+/* grafika */
 figure {
     float: left;
     padding: 2rem;
 }
 
+/* hiperłącza */
 a.powrot {
+    display: inline-block;
     font-size: 3rem;
-    float:right;
     text-decoration: none;
-    padding: 1.5rem;
-    margin: 5%;
+    margin: 7rem;
+    padding: 1rem;
     width: 1rem;
     height: 1rem;
+    float: right;
     border: #000000 dashed thin;
     background: #F27707 url(assets/strzalka.svg) center no-repeat;
-    clear: both;
+    /*clear: both;*/
 }
 a.powrot:hover {
     background: #F25E05 url(assets/strzalka.svg) center no-repeat;
 }
 
+/* style użytkownika */
 .small_menu{
     background: #fff url(assets/menu.svg) center no-repeat;
     padding: 1rem;
@@ -171,16 +178,15 @@ a.powrot:hover {
     right: 1%;
     display: none;
 }
-
 .streszczenie {
-    font-size: 2rem;
+    font-size: 1.6rem;
     font-style: italic;
 }
-
 p.dwie_kolumny{
     column-count: 2;
 }
 
+/* zdarzenia */
 .hoverme {
     height: 1rem;
     display: none;
@@ -193,13 +199,16 @@ p.dwie_kolumny{
 }
 
 
-@media all and (max-width: 972px){
+/* RWD */
+@media all and (max-width: 1070px){
     header {
         height: 20rem;
-        float:right;
+        position: absolute;
+        right: 0%;
+        z-index: 9999;
     }
     nav li{
-        font-size: 2rem;
+        font-size: 1.6rem;
         display: block;
         text-align: right;
         background: url(assets/strzalka.svg) right no-repeat;
@@ -211,24 +220,21 @@ p.dwie_kolumny{
     .hoverme {display: block; }
     .nav{display: none;}
     .bg{
-        background: url(assets/tlo2.jpeg) fixed no-repeat;
+        background: url(assets/tlo2.jpeg) center no-repeat;
         height: 200px;
     }
     p.dwie_kolumny{ column-count: 1;
     }
     form, input, textarea{width: 30rem; }
-    section { float: none; }
-    h1 {  margin-left: 1rem; margin-top: 0rem;}
+    section { position:relative; width:100%; margin-top: 5rem;}
+    h1 {  border-top-left-radius: 1rem; margin-left: 2rem; margin-top: 0rem;}
+    h3 { margin-left: 4rem;}
 }
 
 @media all and (max-width: 768px){
     .bg{
         background: #fff;
-        height: 0;
+        height: 6rem;
     }
-    header.small_nav {
-        background: rgba(109,140,6, 0.3);
-    }
-    
     figure{  display: none;}
 }
