@@ -51,12 +51,12 @@ nav {
     float:right;
 }
 nav li{
-    font-size: 1.8rem;
+    font-size: 2.4rem;
     font-weight: bold;
     text-align: right;
     background: url(assets/strzalka.svg) right no-repeat;
     padding-right: 4rem;
-    line-height: 2rem;
+    line-height: 2.8rem;
     margin: 1rem;
 }
 
@@ -74,9 +74,10 @@ section {
     float: right;
 }
 
+
 h1 {
     margin-left: -6rem;
-    font-size: 3rem;
+    font-size: 3.2rem;
     background: #6D8C06; 
     color:#fff;
     border-top-left-radius: 1rem;
@@ -84,20 +85,20 @@ h1 {
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 2.8rem;
 }
 
 h3 {
-    font-size: 1.5rem;
+    font-size: 2.4rem;
     padding: 1rem;
     background: #95BF06;
     color: #fff;
     margin: 1rem;
 }
 
-p{font-size: 1.8rem; line-height: 1.55;}
+p{font-size: 2rem; line-height: 1.55; margin: 1rem; padding: 1rem;}
 
-ul{font-size: 2.3rem; line-height: 1.75;}
+ul{font-size: 2rem; line-height: 1.75;}
 
 strong{
     font-weight: bold;
@@ -107,12 +108,16 @@ em{
     background-color: rgba(255,255,255,.8);
 }
 
+form{
+    width: 50rem;
+}
+
 input, textarea {
-width:35rem;
+width:50rem;
 background: none;
 border:2px #d1d1d3 solid;
 margin:: .5rem;
-padding: 1 rem;
+padding: 1rem;
 color: #fff;
 font-size: 1.7rem; 
 }
@@ -127,6 +132,9 @@ font-size: 1.7rem;
     right: 1%;
 }
 
+.towarzystwo_historia{
+    margin-top: 5rem;
+}
 figure {
     float: left;
     padding: 2rem;
@@ -136,7 +144,7 @@ figure {
     font-style: italic;
 }
 
-.jung_zalozenia{
+p.jung_zalozenia{
     column-count: 2;
 }
 
@@ -144,12 +152,46 @@ figure {
     display: block;
 } 
     
-@media all and (max width: 768px){
+@media all and (max-width: 972px){
     body{
         background: #fff;
     
     }
-    .about{
+    p.jung_zalozenia{
         column-count: 1;
     }
+    
+    form{
+    width: 30rem;
+    }
+    input, textarea {
+width:30rem;
+}
+    
+    .bg{
+        background: url(assets/tlo2.jpeg) fixed no-repeat;
+        height: 200px;   
+    }
+    
+    section {
+   
+    float: none;
+}
+h1 {
+    margin-left: 1rem;
+    
+    }
+    
+
+}
+
+@media all and (max-width: 768px){
+    .bg{
+        background: #fff;
+    }
+    
+    figure{
+        display: none;
+    }
+    
 }
